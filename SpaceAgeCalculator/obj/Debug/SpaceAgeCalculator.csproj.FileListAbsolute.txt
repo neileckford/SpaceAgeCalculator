@@ -1,0 +1,10 @@
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\bin\Debug\SpaceAgeCalculator.exe.config
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\bin\Debug\SpaceAgeCalculator.exe
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\bin\Debug\SpaceAgeCalculator.pdb
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\obj\Debug\SpaceAgeCalculator.Form1.resources
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\obj\Debug\SpaceAgeCalculator.Properties.Resources.resources
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\obj\Debug\SpaceAgeCalculator.csproj.GenerateResource.Cache
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\obj\Debug\SpaceAgeCalculator.exe
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\obj\Debug\SpaceAgeCalculator.pdb
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\obj\Debug\SpaceAgeCalculator.CalculateScreen.resources
+C:\Users\Neil\documents\visual studio 2017\Projects\SpaceAgeCalculator\SpaceAgeCalculator\obj\Debug\SpaceAgeCalculator.csprojResolveAssemblyReference.cache
